@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ajax message display</title>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<style type="text/css">
+	.chat h5{
+		color: red;
+		margin-left: 450px;
+		
+	}
+</style>
+</head>
+<body>
+<div class="message_display">
+	
+</div>
+<div>
+	<form id="ajaxform">
+	<input type="text" name="message_send" id="message_send">
+
+	<input type="button" class="btn btn-default" id="ajax" value="submit"> 
+</form>
+</div>
+
+
+
+
+
+
+</body>
+</html>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+	// geting data on the first load
+			$.ajax({
+				    url: 'get2.php',
+				    type: "GET",
+				    success: function (result) {
+				      	console.log(result,'sdfsdfs');
+				      	$('.message_display').html(result);
+				      	
+
+
+
+
+				    }
+				});
+
+		console.log('load');
+		// on clicking button
+		$('#ajax').on('click',function(){
+			console.log('onclick');
+			$.ajax({
+				    url: 'action2.php',
+				    type: "POST",
+				    data: $('#ajaxform').serialize(),
+				    success: function (result) {
+				      	console.log(result,'sdfsdfs');
+				      	 $('.message_display').html(result);
+				      	
+
+
+
+
+				    }
+				});
+		})
+	})
+</script>

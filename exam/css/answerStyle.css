@@ -1,0 +1,42 @@
+body {
+    margin-top: 62px !important;
+    margin: 10px;
+}
+
+.row {
+    margin: auto;
+    padding: 10px;
+}
+
+.row .container{
+	border-radius: 10px;
+	border: 2px solid #FFC763;
+	padding-top: 20px;
+
+}
+
+.row .container p{
+	font-size: 16px;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+
+.row .container p .ansTrue{
+	font-weight: 600;
+	color: green;
+}
+.row .container p .ansFalse{
+	font-weight: 600;
+	color: red;
+}
+.row .container p .correctAns{
+	font-weight: 600;
+	color: #0b93d4;
+}
+
+.row .container h5 .totalCorrect{
+	font-weight: 600;
+	font-size: 20px;
+	color: #149605;
+}
+
