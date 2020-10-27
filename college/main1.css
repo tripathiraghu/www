@@ -1,0 +1,94 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image:url(image/wood5b.jpg);
+	background-repeat:repeat;
+	/*
+		background-color: #330000;*/
+	color: #FFcc99;	
+}
+.mar{
+margin-top:50px;
+	margin-left:50px;
+	margin-right:2px;
+	}
+.nm1
+{
+	text-align:center;
+	font-family:arial;
+	font-size:12px;
+	font-weight:700;
+	color:#990099;
+}
+.nm2
+{
+	text-align:center;
+	font-family:arial;
+	font-size:10px;
+	font-weight:700;
+	color:#990099;
+}
+.nm3
+{
+	text-align:center;
+	font-family:arial;
+	font-size:16px;
+	font-weight:700;
+	color:#990099;
+}
+
+h1{
+	color: #990099;
+}
+h3{
+	color: #990099;
+}
+td{
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.co{
+	color: #990099;
+	font-size: 18px;
+}
+.co1{
+	color: #990099;
+	font-size: 18px;
+}
+li{
+	color: #FFFFFF;
+	font-size: 18px;
+}
+.hyp {
+	FONT-WEIGHT: normal;  TEXT-TRANSFORM: uppercase; COLOR: #990099; TEXT-DECORATION: none
+}
+.hyp:hover {PADDING-LEFT: 0px;	COLOR: #990099;FONT-WEIGHT: bolder;
+}
+
+
+
+A {
+	FONT-WEIGHT: normal;  TEXT-TRANSFORM: uppercase; COLOR: #990099; TEXT-DECORATION: none
+}
+A:hover {PADDING-LEFT: 0px;	COLOR: #990099;FONT-WEIGHT: bolder;
+}
+.si {
+	font-family: Arial, Helvetica, sans-serif; color:#CCFF00; background-color:ffcc99	
+}
+.si {
+	font-family: Arial, Helvetica, sans-serif; color:#CCFF00; background-color:ffcc99	
+}
+#nav LI A:visited {
+	COLOR: #ffffff
+}
+#nav LI LI A:visited {
+	COLOR: #000000
+}
+#nav LI LI A:hover {
+	PADDING-RIGHT: 0px;
+	DISPLAY: block;
+	PADDING-LEFT: 0px;
+	COLOR: #ffffff;
+	BACKGROUND-COLOR: #990000;
+	font-weight: bold;	
+}

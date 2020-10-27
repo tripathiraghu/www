@@ -1,0 +1,109 @@
+old server details
+
+http://isolution.myorderbox.com/servlet/LoginServlet
+
+user name: rahulsingh_rathore23@yahoo.com
+passwor: Bijainagar@30                        
+
+
+control panel
+
+https://resellerplesk14.securehostdns.com/
+Username: viocet
+Password: Jaipu#232aa
+
+FTP
+spcollege.in
+User        spcollege
+password    shripragyacoll@1972
+
+user name:- viocet2000@gmail.com
+password:- Rahsingh@9351
+
+FTP
+
+User        spcollege101
+password    shripragyacoll@101
+
+FTP notice folder
+
+User        collegenotice
+password    NoticeOffice@1266
+
+
+
+
+new server details
+ http://www.esteemhost.com/app/webroot/manage
+user name:- viocet2000@gmail.com
+password:- Bijainagar@30
+
+
+
+Control Panel: http://66.199.235.82:8880/
+Web Host Manager: http://66.199.235.82:8880/
+
+
+New Account Info
+
+Domain: brothersfine.com
+Username: brothers
+Password: 3r4yMgBk78
+Hosting Package: Basic
+
+
+
+
+
+user name:- viocet2000@gmail.com
+password:- Rahsingh@9351
+
+---------------------------------
+
+spcollege.co
+User        spcollegebjnr
+password    shripragyacoll@1972
+
+---------------------------------
+
+spcollege.in
+User        spcollege
+password    shripragyacoll@1972
+
+---------------------------------------
+FTP
+
+User        Brothers
+password    Surendra^Brother57
+---------------------------------
+FTP
+
+User        spcollege101
+password    shripragyacoll@101
+---------------------------
+
+www.shripkvhospital.com
+FTP
+user - shripkvhosp
+password- Hospital#305624
+--------------------------------
+www.shreepkvhospital.com
+FTP
+user - shripkvhos
+password- Hospital#%305624
+---------------------------------------------------------------------------
+$servername = "$host="localhost:3306";";
+$username = "pkvhospital";
+$password = "hospitalpkv^305624";
+$databasename="shripkv";
+................................................................................
+godaddy.com
+user name: rajputrelations.com
+password: Anil@663780
+www.rajputrelations.com
+
+
+
+www.rajputrelations.com
+user : rajputrelations
+password: Anil@663780
